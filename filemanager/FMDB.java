@@ -508,7 +508,7 @@ public class FMDB{
 	
 	/** An inner class which represents a file's record.
 	 * 
-	 * @author Tamir Faibish, tamirtf77, 301755344.
+	 * @author tamirtf77
 	 *
 	 */
 	public class FileRecord{

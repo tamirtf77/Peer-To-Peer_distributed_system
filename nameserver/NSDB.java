@@ -262,7 +262,7 @@ public class NSDB {
 	
 	/** An inner class which represents an address's record.
 	 * 
-	 * @author Tamir Faibish, tamirtf77, 301755344.
+	 * @author tamirtf77
 	 *
 	 */
 	public class AddressRecord{
@@ -338,7 +338,7 @@ public class NSDB {
 	 *  ConcurrentHashMap of FMs - each FM have files
 	 *  that a NS should hold their names.
 	 * 
-	 * @author Tamir Faibish, tamirtf77, 301755344.
+	 * @author tamirtf77
 	 *
 	 */
 	public class FilesRecord{
