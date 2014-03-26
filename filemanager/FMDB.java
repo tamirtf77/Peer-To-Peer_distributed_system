@@ -111,7 +111,7 @@ public class FMDB{
 	/** An inner class which implements comparator for FileRecord and
 	 * override the compare. It useful for the FM' files and
 	 * system's files.
-	 * @author Tamir Faibish, tamirtf77, 301755344
+	 * @author tamirtf77
 	 *
 	 */
 	public class FileComparator implements Comparator<FileRecord>{
